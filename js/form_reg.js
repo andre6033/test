@@ -177,7 +177,7 @@ $(document).ready(function () {
                     alert('Регистрация прошла успешно');
                     reg_form.insertAdjacentHTML("afterend",e )
                     document.reg_form.reset(); /* сброс формы*/
-                    subm.style.display = "none";
+                    subm.style.visibility = "hidden";
                 },
 
 
