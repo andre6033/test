@@ -298,6 +298,7 @@ body {
     -ms-flex-pack: center;
     justify-content: center;
     padding-left: 64px;
+	  padding-top: 8px;
 }
 
 .container_form .main_form .thank h3 {
